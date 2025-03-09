@@ -1,7 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
-
+Added Enemies with different brains
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -12,6 +12,6 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
-
+Add tilemap coins
 ## Created by
-Nathan Mishler
+Blayne Baker
